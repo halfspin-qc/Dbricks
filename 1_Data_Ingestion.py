@@ -1,6 +1,6 @@
 # Databricks notebook source
-# MAGIC %python
-# MAGIC LabName = "Data Ingestion"
+
+LabName = "Data Ingestion"
 
 # COMMAND ----------
 
